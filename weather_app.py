@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "01c444eebfe54fb7baa214305251204"  # WeatherAPI key
+API_KEY = ""  # WeatherAPI key
 BASE_URL = "http://api.weatherapi.com/v1/current.json"
 
 print("🌦️ Welcome to the Weather Info App!\n")
